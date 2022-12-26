@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <div className="overflow-scroll sm:overflow-visible">
+        <div className="overflow-scroll lg:overflow-visible">
           <p className="text-xl mt-20 ">
             My name is Yossavorn Iangleard. I am 25 years old.I graduated with a
             bachelor's degree from Nuclear and Radiation Engineering, Faculty of
