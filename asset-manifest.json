@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio_yossavorn/static/css/main.1137e8ff.css",
-    "main.js": "/portfolio_yossavorn/static/js/main.485342b4.js",
+    "main.js": "/portfolio_yossavorn/static/js/main.d0db840a.js",
     "static/media/Shopping.png": "/portfolio_yossavorn/static/media/Shopping.f1df612bd864d59e666b.png",
     "static/media/Profile.jpg": "/portfolio_yossavorn/static/media/Profile.ce957320f64ba88ea68d.jpg",
+    "static/media/CV_Yossavorn_22Dec2022_Dev.pdf": "/portfolio_yossavorn/static/media/CV_Yossavorn_22Dec2022_Dev.a5f226088492138e97d3.pdf",
     "static/media/DrumKit.png": "/portfolio_yossavorn/static/media/DrumKit.a080cd7d03b7bf658269.png",
     "static/media/Expense.png": "/portfolio_yossavorn/static/media/Expense.1b8068a506d6d1e32384.png",
     "static/media/react.png": "/portfolio_yossavorn/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -16,10 +17,10 @@
     "static/media/javascript.png": "/portfolio_yossavorn/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_yossavorn/index.html",
     "main.1137e8ff.css.map": "/portfolio_yossavorn/static/css/main.1137e8ff.css.map",
-    "main.485342b4.js.map": "/portfolio_yossavorn/static/js/main.485342b4.js.map"
+    "main.d0db840a.js.map": "/portfolio_yossavorn/static/js/main.d0db840a.js.map"
   },
   "entrypoints": [
     "static/css/main.1137e8ff.css",
-    "static/js/main.485342b4.js"
+    "static/js/main.d0db840a.js"
   ]
 }
