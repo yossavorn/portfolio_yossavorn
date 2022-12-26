@@ -2,6 +2,9 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import resume from "../asset/CV_Yossavorn_22Dec2022_Dev.pdf";
+
+
 
 const SocialLinks = () => {
   const links = [
@@ -40,9 +43,9 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/CV_Yossavorn_22Dec2022_Dev.pdf",
+      href: resume,
       style: "rounded-br-md",
-      download: true,
+ 
     },
   ];
 
@@ -61,7 +64,8 @@ const SocialLinks = () => {
             <a
               className="flex justify-between items-center w-full text-white"
               href={href}
-              download={download}
+              download="CV_Yossavorn_22Dec2022_Dev.pdf"
+             
               target="_blank"
               rel="noreferrer"
             >

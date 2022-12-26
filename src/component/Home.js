@@ -1,5 +1,6 @@
 import React from "react";
 import ProfileImg from "../asset/Profile.jpg";
+import resume from "../asset/CV_Yossavorn_22Dec2022_Dev.pdf";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -36,7 +37,7 @@ const Home = () => {
 
           <div >
             <a
-              href="/CV_Yossavorn_22Dec2022_Dev.pdf"
+              href={resume}
               download="CV_Yossavorn_22Dec2022_Dev.pdf"
               target="_blank"
               rel="noreferrer"
