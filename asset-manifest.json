@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_yossavorn/static/css/main.0eef2c9d.css",
-    "main.js": "/portfolio_yossavorn/static/js/main.1576ad16.js",
+    "main.css": "/portfolio_yossavorn/static/css/main.1137e8ff.css",
+    "main.js": "/portfolio_yossavorn/static/js/main.485342b4.js",
     "static/media/Shopping.png": "/portfolio_yossavorn/static/media/Shopping.f1df612bd864d59e666b.png",
     "static/media/Profile.jpg": "/portfolio_yossavorn/static/media/Profile.ce957320f64ba88ea68d.jpg",
     "static/media/DrumKit.png": "/portfolio_yossavorn/static/media/DrumKit.a080cd7d03b7bf658269.png",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/portfolio_yossavorn/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio_yossavorn/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_yossavorn/index.html",
-    "main.0eef2c9d.css.map": "/portfolio_yossavorn/static/css/main.0eef2c9d.css.map",
-    "main.1576ad16.js.map": "/portfolio_yossavorn/static/js/main.1576ad16.js.map"
+    "main.1137e8ff.css.map": "/portfolio_yossavorn/static/css/main.1137e8ff.css.map",
+    "main.485342b4.js.map": "/portfolio_yossavorn/static/js/main.485342b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eef2c9d.css",
-    "static/js/main.1576ad16.js"
+    "static/css/main.1137e8ff.css",
+    "static/js/main.485342b4.js"
   ]
 }
