@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio_yossavorn/static/css/main.0eef2c9d.css",
+    "main.js": "/portfolio_yossavorn/static/js/main.d7a06b19.js",
+    "static/media/Shopping.png": "/portfolio_yossavorn/static/media/Shopping.f1df612bd864d59e666b.png",
+    "static/media/Profile.jpg": "/portfolio_yossavorn/static/media/Profile.ce957320f64ba88ea68d.jpg",
+    "static/media/DrumKit.png": "/portfolio_yossavorn/static/media/DrumKit.a080cd7d03b7bf658269.png",
+    "static/media/Expense.png": "/portfolio_yossavorn/static/media/Expense.1b8068a506d6d1e32384.png",
+    "static/media/react.png": "/portfolio_yossavorn/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio_yossavorn/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Simon.png": "/portfolio_yossavorn/static/media/Simon.e02c689be401e433ca6e.png",
+    "static/media/github.png": "/portfolio_yossavorn/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio_yossavorn/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio_yossavorn/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio_yossavorn/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio_yossavorn/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio_yossavorn/index.html",
+    "main.0eef2c9d.css.map": "/portfolio_yossavorn/static/css/main.0eef2c9d.css.map",
+    "main.d7a06b19.js.map": "/portfolio_yossavorn/static/js/main.d7a06b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eef2c9d.css",
+    "static/js/main.d7a06b19.js"
+  ]
+}
